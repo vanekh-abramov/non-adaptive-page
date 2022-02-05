@@ -1,2 +1,1 @@
-# Swan
-many-pages
+# non-adaptive-page
